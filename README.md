@@ -15,10 +15,11 @@ Every build is signed with a Developer ID and notarised by Apple, so it opens wi
 
 ```sh
 brew tap karvidsson/pengrid-releases https://github.com/karvidsson/pengrid-releases
+brew trust karvidsson/pengrid-releases
 brew install --cask pengrid
 ```
 
-Pengrid needs macOS 12 Monterey or later.
+Pengrid needs macOS 13 Ventura or later.
 
 ## Questions
 
