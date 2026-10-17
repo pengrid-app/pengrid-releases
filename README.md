@@ -87,7 +87,7 @@ Pengrid is free to use. Paid plans for professionals and teams are on the way; s
 
 ## Support
 
-Found a bug or missing a feature? [Open an issue](../../issues/new) or get in touch through [pengrid.app](https://pengrid.app).
+Found a bug or missing a feature? [Open an issue](../../issues/new). For anything else, from questions to team plans, write to **[hello@pengrid.app](mailto:hello@pengrid.app)**.
 
 ---
 
