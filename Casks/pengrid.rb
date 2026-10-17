@@ -1,9 +1,9 @@
 cask "pengrid" do
   arch arm: "arm64", intel: "x64"
 
-  version "0.2.1"
-  sha256 arm:   "84a1990752a416451735e4c672c9622234b1783cfa5f9e94105346356dfebe9b",
-         intel: "f7698e7c115cee303a5c2ea642dda78c636e825df74dff9ade9b6840e3297e16"
+  version "0.2.2"
+  sha256 arm:   "659b942ccf66ffa5a00afa09287167e444d93547ca184d3a5141233d41957da6",
+         intel: "60dbf06288f78c9ab55e0aafcfd6f5072e1c6488e59178747e740307ebd1297d"
 
   url "https://github.com/pengrid-app/pengrid-releases/releases/download/v#{version}/Pengrid-#{version}-#{arch}.dmg"
   name "Pengrid"
