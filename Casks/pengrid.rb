@@ -5,7 +5,7 @@ cask "pengrid" do
   sha256 arm:   "84a1990752a416451735e4c672c9622234b1783cfa5f9e94105346356dfebe9b",
          intel: "f7698e7c115cee303a5c2ea642dda78c636e825df74dff9ade9b6840e3297e16"
 
-  url "https://github.com/karvidsson/pengrid-releases/releases/download/v#{version}/Pengrid-#{version}-#{arch}.dmg"
+  url "https://github.com/pengrid-app/pengrid-releases/releases/download/v#{version}/Pengrid-#{version}-#{arch}.dmg"
   name "Pengrid"
   desc "Editor for writing, designing and merging white papers"
   homepage "https://pengrid.app/"

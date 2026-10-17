@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <rect width="100" height="100" rx="22.5" fill="#24271f" />
+  <path fill="#f6f5ed" d="M29 14h12v12h-12z" />
+  <path fill="#f6f5ed" d="M44 14h12v12h-12z" />
+  <path fill="#dfff78" d="M59 14h12v12h-12z" />
+  <path fill="#f6f5ed" d="M29 29h12v12h-12z" />
+  <path fill="#f6f5ed" d="M59 29h12v12h-12z" />
+  <path fill="#f6f5ed" d="M29 44h12v12h-12z" />
+  <path fill="#f6f5ed" d="M44 44h12v12h-12z" />
+  <path fill="#f6f5ed" d="M59 44h12v12h-12z" />
+  <path fill="#f6f5ed" d="M29 59h12v12h-12z" />
+  <path fill="#f6f5ed" d="M29 74h12v12h-12z" />
+</svg>
